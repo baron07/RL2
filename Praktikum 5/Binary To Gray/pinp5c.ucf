@@ -1,0 +1,9 @@
+net b(3) loc = H13;
+net b(2) loc = H14;
+net b(1) loc = G12;
+net b(0) loc = F12;
+
+net g(3) loc = N14;
+net g(2) loc = L12;
+net g(1) loc = P14;
+net g(0) loc = K12;
