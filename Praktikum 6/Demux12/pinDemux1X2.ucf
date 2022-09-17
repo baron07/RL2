@@ -1,0 +1,5 @@
+net cin loc = F12;
+net sel loc = G12;
+
+net y(1) loc = K12;
+net y(0) loc = P14;
