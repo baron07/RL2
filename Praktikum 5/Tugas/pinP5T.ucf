@@ -1,0 +1,19 @@
+net a(3) loc = K13;
+net a(2) loc = K14;
+net a(1) loc = J13;
+net a(0) loc = J14;
+
+net b(3) loc = H13;
+net b(2) loc = H14;
+net b(1) loc = G12;
+net b(0) loc = F12;
+
+net quotient(3) loc = N14;
+net quotient(2) loc = L12;
+net quotient(1) loc = P14;
+net quotient(0) loc = K12;
+
+net reminder(3) loc = P11;
+net reminder(2) loc = P12;
+net reminder(1) loc = N12;
+net reminder(0) loc = P13;
