@@ -1,0 +1,5 @@
+net sw(0) loc = F12;
+net sw(1) loc = G12;
+net btn(0) loc = H14;
+
+net led(0) loc = K12;
