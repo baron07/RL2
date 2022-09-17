@@ -1,0 +1,13 @@
+net sw(0) loc = F12;
+net sw(1) loc = G12;
+net sw(2) loc = H14;
+net sw(3) loc = H13;
+net sw(4) loc = J14;
+net sw(5) loc = J13;
+net sw(6) loc = K14;
+net sw(7) loc = K13;
+
+net led(3) loc = K12;
+net led(2) loc = P14;
+net led(1) loc = L12;
+net led(0) loc = N14;
