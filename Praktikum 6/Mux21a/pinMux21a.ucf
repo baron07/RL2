@@ -1,0 +1,5 @@
+net a loc = F12;
+net b loc = G12;
+net s loc = H14;
+
+net y loc = K12;
