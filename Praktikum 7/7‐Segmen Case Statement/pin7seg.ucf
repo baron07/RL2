@@ -1,0 +1,20 @@
+net a_to_g(0) loc = N16;
+net a_to_g(1) loc = F13;
+net a_to_g(2) loc = R16;
+net a_to_g(3) loc = P15;
+net a_to_g(4) loc = N15;
+net a_to_g(5) loc = G13;
+net a_to_g(6) loc = E14;
+
+
+net an(0) loc = D14;
+net an(1) loc = G14;
+net an(2) loc = F14;
+net an(3) loc = E13;
+
+net dp loc = P16;
+
+net sw(0) loc = F12;
+net sw(1) loc = G12;
+net sw(2) loc = H14;
+net sw(3) loc = H13;
